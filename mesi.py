@@ -15,9 +15,9 @@ class Linha:
 
 
 class Memoria:
-
     def __init__(self):
         self.writebacks = 0
+        
 class Bus:
 
     def __init__(self, memoria):
